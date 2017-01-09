@@ -1,0 +1,12 @@
+@RELATION HRS
+
+@ATTRIBUTE accX__mean	REAL
+@ATTRIBUTE accY__mean 	REAL
+@ATTRIBUTE accZ__mean	REAL
+@ATTRIBUTE accX__stdv	REAL
+@ATTRIBUTE accY__stdv	REAL
+@ATTRIBUTE accZ__stdv	REAL
+
+@ATTRIBUTE class {walking,running,static,cycling}
+
+@DATA
